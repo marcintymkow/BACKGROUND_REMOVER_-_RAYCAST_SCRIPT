@@ -83,4 +83,4 @@ You can also copy the scripts into your Raycast script commands folder.
 
 ## Author
 
-Marcin
+Marcin Tymków
